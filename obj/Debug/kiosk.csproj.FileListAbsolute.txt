@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\bin\Debug\McDoKiosk.exe.config
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\bin\Debug\McDoKiosk.exe
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\bin\Debug\McDoKiosk.pdb
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\obj\Debug\kiosk.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\obj\Debug\McDoKiosk.Form1.resources
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\obj\Debug\McDoKiosk.Form2.resources
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\obj\Debug\McDoKiosk.Properties.Resources.resources
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\obj\Debug\kiosk.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\obj\Debug\kiosk.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\obj\Debug\McDoKiosk.exe
+C:\Users\PC\source\repos\McDoKiosk\McDoKiosk\obj\Debug\McDoKiosk.pdb
